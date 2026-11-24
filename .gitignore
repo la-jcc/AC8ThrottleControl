@@ -1,0 +1,14 @@
+# Build and release output
+build/
+dist/
+*.obj
+*.zip
+*.log
+player.ptr
+throttle.status
+Scripts/ac8_throttle_control.dll
+
+# Editor state
+.vs/
+.vscode/
+.idea/
